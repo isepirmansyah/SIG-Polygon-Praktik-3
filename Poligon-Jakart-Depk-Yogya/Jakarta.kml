@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Jakarta</name>
+    <NetworkLink>
+      <name>Peta 3 Kota Area Polygon</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1tCrD7u39ZRhwv9E3etS7cUYRj2qXeFE&lid=5JAiTXi9cs8]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
