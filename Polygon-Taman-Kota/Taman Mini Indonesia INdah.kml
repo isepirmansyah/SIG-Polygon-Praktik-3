@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Taman Mini Indonesia INdah</name>
+    <NetworkLink>
+      <name>Taman Kota Jakarta</name>
+      <Link>
+        <href><![CDATA[https://www.google.com/maps/d/kml?forcekml=1&mid=1t787xf2jo4r2buXgJUVookRvEqnpCuk&lid=KfcCpgEWI_o]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
